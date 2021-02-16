@@ -1,3 +1,4 @@
 # Quantum-Portfolio
-Cranbrook '2021
-University of Chicago '2025
+Cranbrook '21
+
+University of Chicago '25
